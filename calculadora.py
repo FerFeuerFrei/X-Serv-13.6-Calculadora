@@ -1,11 +1,11 @@
-#import sys
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-#exit(0)
+"""
 
-#if sys.argv[2] == "+":
-#    print(sys.argv[1] + sys.argv[3])
+Calculadora
 
-# FORMA 1
+"""
 
 import sys
 
