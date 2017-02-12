@@ -14,7 +14,7 @@ if len(sys.argv) != 4:
     
 print(sys.argv)
     
-# _: lo tiro a la basura.
+# _: lo tiro a la basura
 _, operacion, operando1, operando2 = sys.argv
 
 
