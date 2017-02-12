@@ -9,13 +9,12 @@ Calculadora
 
 import sys
 
-# _: lo tiro a la basura.
-
 if len(sys.argv) != 4:
     sys.exit("Usage: python3 calculadora.py operacion operando1 operando2")
     
 print(sys.argv)
     
+# _: lo tiro a la basura.
 _, operacion, operando1, operando2 = sys.argv
 
 
