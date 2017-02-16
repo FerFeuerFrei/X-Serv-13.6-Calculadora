@@ -17,7 +17,6 @@ print(sys.argv)
 # _: lo tiro a la basura
 _, operacion, operando1, operando2 = sys.argv
 
-
 try:
     operando1 = float(operando1)
     operando2 = float(operando2)
